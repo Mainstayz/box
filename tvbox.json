@@ -1,16 +1,6 @@
 {
     "sites": [
         {
-            "key": "本地",
-            "name": "❤本地",
-            "type": 3,
-            "api": "csp_Local",
-            "searchable": 0,
-            "changeable": 0,
-            "viewType": 1,
-            "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-        },
-        {
             "key": "csp_Nbys",
             "name": "❤蜂蜜新泥巴",
             "type": 3,
@@ -1760,17 +1750,6 @@
             "changeable": 1,
             "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
         },
-
-        {
-            "key": "MV_vod",
-            "name": "👀┃19┃视频",
-            "type": 1,
-            "viewType": 1,
-            "api": "https://sousu.popefih902.repl.co/vod/19",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "路人甲影视",
             "name": "❤路人甲",
@@ -2038,13 +2017,6 @@
             "name": "AK47",
             "type": 0,
             "url": "https://qu.ax/HtMB.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "蜂蜜18+",
-            "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
